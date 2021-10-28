@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-28T06:12:04Z" name="Default suite" finished-at="2021-10-28T06:12:11Z" duration-ms="6710">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T06:12:04Z" name="Default test" finished-at="2021-10-28T06:12:11Z" duration-ms="6710">
+      <class name="com.TestCases.TestYahoo">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.TestCases.TestYahoo@3b74ac8]" started-at="2021-10-28T06:12:04Z" name="setDriver" finished-at="2021-10-28T06:12:06Z" duration-ms="1897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="yahoolaunch()[pri:0, instance:com.TestCases.TestYahoo@3b74ac8]" started-at="2021-10-28T06:12:06Z" name="yahoolaunch" finished-at="2021-10-28T06:12:10Z" duration-ms="4001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoolaunch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TestYahoo@3b74ac8]" started-at="2021-10-28T06:12:10Z" name="tearDown" finished-at="2021-10-28T06:12:11Z" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TestYahoo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
